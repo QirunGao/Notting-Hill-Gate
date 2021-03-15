@@ -57,7 +57,66 @@ You can use this site to hear Audio Online or Download it as a .zip file.
 
 </details>
 
-### Theme 2
+<details>
+  <summary>Theme2</summary>
+
+[A5 What has been your biggest challenge](/NHG-T2/029_Th2_TB_A5_What_has_been_your_biggest_challenge.mp3)
+
+[A4 Little words](/NHG-T2/030_Th2_WB_A4_Little_words.mp3)
+
+[A7 Gabrielles biggest challenge](/NHG-T2/031_Th2_TB_A7_Gabrielles_biggest_challenge.mp3)
+
+[A5 How_Gabrielle quit](/NHG-T2/032_Th2_WB_A5_How_Gabrielle_quit.mp3)
+
+[A6 Gabrielles tips](/NHG-T2/033_Th2_WB_A6_Gabrielles_tips.mp3)
+
+[A7a Sound check](/NHG-T2/034_Th2_WB_A7a_Sound_check.mp3)
+
+[A7c Sound check](/NHG-T2/035_Th2_WB_A7c_Sound_check.mp3)
+
+[A8 Advice for Steven](/NHG-T2/036_Th2_WB_A8_Advice_for_Steven.mp3)
+
+[P2 Being proud](/NHG-T2/037_Th2_TB_P2_Being_proud.mp3)
+
+[P4 Working with words](/NHG-T2/038_Th2_TB_P4_Working_with_words.mp3)
+
+[P5 In the classroom](/NHG-T2/039_Th2_TB_P5_In_the_classroom.mp3)
+
+[P6 Listen to the advice](/NHG-T2/040_Th2_TB_P6_Listen_to_the_advice.mp3)
+
+[P7a Sound check](/NHG-T2/041_Th2_TB_P7a_Sound_check.mp3)
+
+[P7c Sound check](/NHG-T2/042_Th2_TB_P7c_Sound_check.mp3)
+
+[B2 Growing up](/NHG-T2/043_Th2_TB_B2_Growing_up.mp3)
+
+[B3 A boys life](/NHG-T2/044_Th2_WB_B3_A_boys_life.mp3)
+
+[B4 Children and their families](/NHG-T2/045_Th2_WB_B4_Children_and_their_families.mp3)
+
+[B6 A difficult challenge in Malawi](/NHG-T2/046_Th2_TB_B6_A_difficult_challenge_in_Malawi.mp3)
+
+[B8 Facts about Pentecost Island](/NHG-T2/047_Th2_WB_B8_Facts_about_Pentecost_Island.mp3)
+
+[P9 What have they been doing](/NHG-T2/048_Th2_TB_P9_What_have_they_been_doing.mp3)
+
+[P10 Life in a trailer park](/NHG-T2/049_Th2_TB_P1/NHG-T2/0_Life_in_a_trailer_park.mp3)
+
+[P11 What has been done today](/NHG-T2/050_Th2_TB_P11_What_has_been_done_today.mp3)
+
+[P12 When will that be done](/NHG-T2/051_Th2_TB_P12_When_will_that_be_done.mp3)
+
+[P13 Rights and responsibilities](/NHG-T2/052_Th2_TB_P13_Rights_and_responsibilities.mp3)
+
+[P15 My life](/NHG-T2/053_Th2_TB_P15_My_life.mp3)
+
+[T1Stern Listening Huge challenges](/NHG-T2/054_Th2_WB_T1Stern_Listening_Huge_challenges.mp3)
+
+[T1Mond Sonne Listening Huge challenges](/NHG-T2/055_Th2_WB_T1Mond_Sonne_Listening_Huge_challenges.mp3)
+
+[M1 Listening A day in the life of a boy in India](/NHG-T2/056_Th2_WB_M1_Listening_A_day_in_the_life_of_a_boy_in_India.mp3)
+
+</details>
 
 ### Theme 3
 
