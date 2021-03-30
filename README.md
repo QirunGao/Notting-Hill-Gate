@@ -9,9 +9,9 @@ You can use this site to hear Audio Online or Download it as a .zip file.
 <details>
   <summary>Theme1</summary>
 
-[A2 Sound Check](/NHG-T1/001_Th1_WB_A2_Sound_check.mp3)
+[A2 Sound Check](github.com/QirunGao/Notting-Hill-Gate/blob/main/NHG-T1/001_Th1_WB_A2_Sound_check.mp3)
 
-[A2 Back in the USA](/NHG-T1/002_Th1_TB_A2_Back_in_the_USA.mp3)
+[A2 Back in the USA](github.com/QirunGao/Notting-Hill-Gate/blob/main/NHG-T1/002_Th1_TB_A2_Back_in_the_USA.mp3)
 
 [A4 Seeing Mrs Rickmeier](/NHG-T1/003_Th1_WB_A4_Seeing_Mrs_Rickmeier.mp3)
 
