@@ -4,14 +4,11 @@ You can use this site to hear Audio Online or Download it as a .zip file.
 
 ### Tutorial
 
-### Audio
+### Theme 1
 
-<details>
-  <summary>Theme1</summary>
+[A2 Sound Check](/NHG-T1/001_Th1_WB_A2_Sound_check.mp3)
 
-[A2 Sound Check](Notting-Hill-Gate/NHG-T1/001_Th1_WB_A2_Sound_check.mp3)
-
-[A2 Back in the USA](github.com/QirunGao/Notting-Hill-Gate/blob/main/NHG-T1/002_Th1_TB_A2_Back_in_the_USA.mp3)
+[A2 Back in the USA](/NHG-T1/002_Th1_TB_A2_Back_in_the_USA.mp3)
 
 [A4 Seeing Mrs Rickmeier](/NHG-T1/003_Th1_WB_A4_Seeing_Mrs_Rickmeier.mp3)
 
@@ -55,10 +52,7 @@ You can use this site to hear Audio Online or Download it as a .zip file.
 
 [M1 Listening A girl from Manhattan](/NHG-T1/028_Th1_WB_M1_Listening_A_girl_from_Manhattan.mp3)
 
-</details>
-
-<details>
-  <summary>Theme2</summary>
+### Theme 2
 
 [A5 What has been your biggest challenge](/NHG-T2/029_Th2_TB_A5_What_has_been_your_biggest_challenge.mp3)
 
@@ -115,8 +109,6 @@ You can use this site to hear Audio Online or Download it as a .zip file.
 [T1Mond Sonne Listening Huge challenges](/NHG-T2/055_Th2_WB_T1Mond_Sonne_Listening_Huge_challenges.mp3)
 
 [M1 Listening A day in the life of a boy in India](/NHG-T2/056_Th2_WB_M1_Listening_A_day_in_the_life_of_a_boy_in_India.mp3)
-
-</details>
 
 ### Theme 3
 
