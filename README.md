@@ -104,9 +104,9 @@ You can use this site to hear Audio Online or Download it as a .zip file.
 
 [P15 My life](/NHG-T2/053_Th2_TB_P15_My_life.mp3)
 
-[T1Stern Listening Huge challenges](/NHG-T2/054_Th2_WB_T1Stern_Listening_Huge_challenges.mp3)
+[T1 Stern Listening Huge challenges](/NHG-T2/054_Th2_WB_T1Stern_Listening_Huge_challenges.mp3)
 
-[T1Mond Sonne Listening Huge challenges](/NHG-T2/055_Th2_WB_T1Mond_Sonne_Listening_Huge_challenges.mp3)
+[T1 Mond Sonne Listening Huge challenges](/NHG-T2/055_Th2_WB_T1Mond_Sonne_Listening_Huge_challenges.mp3)
 
 [M1 Listening A day in the life of a boy in India](/NHG-T2/056_Th2_WB_M1_Listening_A_day_in_the_life_of_a_boy_in_India.mp3)
 
